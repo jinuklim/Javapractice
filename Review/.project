@@ -20,21 +20,4 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/ch/makery/review/model/Memo.java</name>
-			<type>1</type>
-			<locationURI>PROJECT_LOC/src/ch/makery/reveiw/model/Memo.java</locationURI>
-		</link>
-		<link>
-			<name>src/ch/makery/review/view/ReviewOverview.fxml</name>
-			<type>1</type>
-			<locationURI>PROJECT_LOC/src/ch/makery/reveiw/view/ReviewOverview.fxml</locationURI>
-		</link>
-		<link>
-			<name>src/ch/makery/review/view/RootLayout.fxml</name>
-			<type>1</type>
-			<locationURI>PROJECT_LOC/src/ch/makery/reveiw/view/RootLayout.fxml</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
