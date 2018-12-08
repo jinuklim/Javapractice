@@ -14,15 +14,9 @@ package review.model;
 
 //		디폴트 생성자
 
-		public Resturant (){
-			this(null);
-		}
 
-
-		public Resturant (String Name){
-			this.Name = new SimpleStringProperty(Name);
-
-
+		public Resturant (String string){
+			this.Name = new SimpleStringProperty("Name");
 			this.Addition = new SimpleStringProperty("Addition");
 			this.Write = new SimpleStringProperty("abc");
 

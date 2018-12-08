@@ -13,10 +13,7 @@ public class ResturantOverviewController {
 	private Label Addition;
 
 
-	private MainApp mainApp;
-
-
-	public void ResturantOverviewController() {
+	public ResturantOverviewController() {
 
 	}
 
@@ -25,7 +22,6 @@ public class ResturantOverviewController {
 		}
 
 	public void setMainApp(MainApp mainApp){
-		this.mainApp = mainApp;
 
 	}
 

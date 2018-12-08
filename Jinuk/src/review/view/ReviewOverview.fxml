@@ -23,8 +23,8 @@
       <Circle fill="WHITE" layoutX="195.0" layoutY="54.0" radius="7.0" stroke="BLACK" strokeType="INSIDE" />
       <Circle fill="WHITE" layoutX="215.0" layoutY="54.0" radius="7.0" stroke="BLACK" strokeType="INSIDE" />
       <Label fx:id="Name" layoutX="127.0" layoutY="14.0" prefHeight="23.0" prefWidth="95.0" text="Name" />
-      <Label layoutX="237.0" layoutY="47.0" prefHeight="15.0" prefWidth="69.0" text="Reveiw" />
-      <Label fx:id="Addition" layoutX="237.0" layoutY="18.0" text="Addition" />
+      <Label layoutX="275.0" layoutY="47.0" prefHeight="15.0" prefWidth="69.0" text="Reveiw" />
+      <Label fx:id="Addition" layoutX="275.0" layoutY="18.0" text="Addition" />
       <ButtonBar layoutX="188.0" layoutY="207.0" prefHeight="40.0" prefWidth="200.0" AnchorPane.bottomAnchor="5.0" AnchorPane.rightAnchor="10.0">
         <buttons>
           <Button mnemonicParsing="false" text="Resigter" />
