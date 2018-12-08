@@ -3,6 +3,7 @@ package review;
 import java.io.IOException;
 
 
+
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -22,17 +23,11 @@ public class MainApp extends Application {
 
 
 
-
-
-
-
 	public MainApp() {
-		ResturantData.add(new Resturant("GOODRESTURANT"));
+	ResturantData.add(new Resturant("GOODRESTURANT"));
+	ResturantData.add(new Resturant("GOODRESTURANT"));
+
 	}
-//
-
-
-
 
 	@Override
 	public void start(Stage primaryStage) {
@@ -57,6 +52,7 @@ public class MainApp extends Application {
 				Scene scene = new Scene(rootLayout);
 				primaryStage.setScene(scene);
 				primaryStage.show();
+
 			} catch (IOException e) {
 				e.printStackTrace();
 			}

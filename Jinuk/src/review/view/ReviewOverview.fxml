@@ -27,8 +27,9 @@
       <Label fx:id="Addition" layoutX="275.0" layoutY="18.0" text="Addition" />
       <ButtonBar layoutX="188.0" layoutY="207.0" prefHeight="40.0" prefWidth="200.0" AnchorPane.bottomAnchor="5.0" AnchorPane.rightAnchor="10.0">
         <buttons>
-          <Button mnemonicParsing="false" text="Resigter" />
-            <Button layoutX="135.0" layoutY="19.0" mnemonicParsing="false" text="Cancel" />
+          <Button mnemonicParsing="false" text="Delete" />
+            <Button layoutX="135.0" layoutY="19.0" mnemonicParsing="false" text="Register" />
+            <Button layoutX="50.0" layoutY="19.0" mnemonicParsing="false" text="Cancel" />
         </buttons>
       </ButtonBar>
    </children>
